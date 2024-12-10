@@ -1,5 +1,5 @@
 {
-  "name": "virtualized-tree",
+  "name": "virtualized-tree-react",
   "version": "1.0.0",
   "description": "A customizable virtualized tree component with sorting and expandable nodes, built with React and TypeScript.",
   "main": "dist/virtualized-tree.umd.js",
