@@ -1,0 +1,12 @@
+# Ignore unnecessary files for the package
+node_modules/
+dist/
+src/
+*.log
+.vscode/
+.idea/
+tests/
+tsconfig.json
+vite.config.ts
+.eslintrc.json
+.prettierrc
