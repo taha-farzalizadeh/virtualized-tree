@@ -21,11 +21,11 @@
 Install the package using npm or yarn:
 
 ```bash
-npm install virtualized-tree
+npm install virtualized-tree-react
 ```
 or
 ```bash
-yarn add virtualized-tree
+yarn add virtualized-tree-react
 
 ```
 
