@@ -37,7 +37,7 @@ yarn add virtualized-tree-react
 
 ```tsx
 import React from 'react';
-import { VirtualizedTree } from 'virtualized-tree';
+import { VirtualizedTree } from 'virtualized-tree-react';
 
 const data = {
   "id": "0b",
